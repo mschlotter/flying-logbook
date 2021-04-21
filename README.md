@@ -1,4 +1,4 @@
-# Electronic Flying Logbook
+# Flying Logbook
 A logbook for gliding and powered flying, implemented as OpenOffice / LibreOffice spreadsheet.
 
 ## Keep Track of Your Gliding and Powered Flying
