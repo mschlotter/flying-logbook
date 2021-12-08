@@ -34,6 +34,29 @@ They can answer (almost arbitrarily) complex questions, which are not covered by
 Explanations on how to use the query tables can be found on the worksheet.
 The number of processed flights is also controlled by the limits entered on the 'Misc' page, just as for the Statistics pages.
 
+## FAQs
+**I have entered a lot of flights, and the last ones do not show up in the statistics.**\
+To keep calculation time short, the number of processed database entries is limited to 500.
+If you have more entries than that, increase the limits on the 'Misc' worksheet.
+The higher the limit, the longer it takes to update results.
+For large databases, you may want to turn off automatic updating in *Tools → Cell Contents → Auto Calculate*.
+You then have to press the 'F9' key to recalculate everything.
+
+**The spreadsheet feels very sluggish.**\
+See above.
+For large databases and/or slow computers, you may want to turn off automatic updating in *Tools → Cell Contents → Auto Calculate*.
+You then have to press the 'F9' key to recalculate everything.
+
+**The document is protected - does that prevent me from making changes?**\
+You can still change anything you want!
+All worksheets are protected to prevent unintentional changes to formulas.
+If you know what you are doing and want to make modifications, simply unprotect each sheet (*Tools → Protect Document → Sheet*).
+Remember to turn on protection after you have finished.
+Please understand that I am unable to provide any support for modified spreadsheets.
+
+**I have made some changes and they totally messed up the calculations. What shall I do?**\
+Download the spreadsheet again from this website and copy and paste your data from your old document.
+
 ## Feedback and Donations
 I appreciate your feedback
 Please let me know if you have found a bug, or -even better- if you have fixed one.
